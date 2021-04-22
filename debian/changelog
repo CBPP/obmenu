@@ -1,0 +1,6 @@
+obmenu (11.0) unstable; urgency=medium
+
+  * Initial Release.
+  * Yoinked from https://github.com/0x10/obmenu2
+
+ -- Ben Young <computermouth@crunchbangplusplus.org>  Thu, 22 Apr 2021 13:17:16 -0800

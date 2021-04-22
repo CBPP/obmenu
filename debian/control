@@ -1,0 +1,13 @@
+Source: obmenu
+Section: misc
+Priority: extra
+Maintainer: Ben Young <computermouth@crunchbangplusplus.org>
+Build-Depends: debhelper (>= 13)
+Standards-Version: 3.9.8
+Homepage: https://crunchbangplusplus.org/
+
+Package: obmenu
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}, python3, gi
+Description: various Openbox pipemenus.
+ A repackaging of https://github.com/0x10/obmenu2
