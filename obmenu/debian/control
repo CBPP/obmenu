@@ -8,6 +8,6 @@ Homepage: https://crunchbangplusplus.org/
 
 Package: obmenu
 Architecture: all
-Depends: ${shlibs:Depends}, ${misc:Depends}, python3, gi
+Depends: ${shlibs:Depends}, ${misc:Depends}, python3, python3-gi
 Description: various Openbox pipemenus.
  A repackaging of https://github.com/0x10/obmenu2
