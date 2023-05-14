@@ -1,3 +1,9 @@
+obmenu (12.0) unstable; urgency=medium
+
+  * Updated from https://github.com/0x10/obmenu2
+
+ -- Ben Young <computermouth@crunchbangplusplus.org>  Sun, 14 May 2023 16:46:16 -0800
+
 obmenu (11.0) unstable; urgency=medium
 
   * Initial Release.
